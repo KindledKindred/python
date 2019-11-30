@@ -1,1 +1,4 @@
-# computer_vision_practice
+# computer_vision_practice（更新中止）
+
+オライリーのコンピュータビジョンという本の練習用に作ったリポジトリです．
+GoogleColabに移行したので，こちらはしばらくしたら消去します．
